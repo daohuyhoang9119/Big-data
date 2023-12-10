@@ -11,7 +11,9 @@ PROFIT FORECASTS BASED ON SALES FROM 2000 GLOBALLY COMPANIES
 
 ## Target
 
-- Provides an overview of the price for ETH, BTC and helps readers better understand risks and opportunities to invest in this potential cryptocurrency field.
+- Understand and know how to create a Linear Regression model from scratch
+- Profit forecast based on sale
+- Know how to use pyspark
 
 ## Dataset
 
@@ -28,7 +30,7 @@ Size: 137.69 kB
 - Find papers that related to your model and answer why we choose this model.
 - Check outliers
 - Visualize data
-- Split data to 3 part: 7:3
+- Split data to 2 part: 7:3
   - Train
   - Test
 - Describe the overview of your model and the calculation method.
