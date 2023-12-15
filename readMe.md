@@ -11,7 +11,7 @@ PROFIT FORECASTS BASED ON SALES FROM 2000 GLOBALLY COMPANIES
 
 ## Target
 
-- Understand and know how to create a Linear Regression model from scratch
+- Understand and know how to create a Linear Regression and Ridge Regression model from scratch
 - Profit forecast based on sale
 - Know how to use pyspark
 
