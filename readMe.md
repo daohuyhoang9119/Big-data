@@ -24,6 +24,7 @@ Size: 137.69 kB
 ## Models
 
 - Linear regression
+- Ridge Regression
 
 ## Steps
 
